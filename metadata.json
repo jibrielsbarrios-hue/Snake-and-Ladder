@@ -1,0 +1,6 @@
+{
+  "name": "Jungle Quest",
+  "description": "Pass-and-play rainforest Snakes & Ladders tabletop expedition for 2 to 4 players.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

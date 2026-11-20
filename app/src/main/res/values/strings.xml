@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jungle Quest</string>
+    <string name="play_cta">PLAY</string>
+    <string name="expedition_subtitle">SNAKES &amp; LADDERS</string>
+    <string name="player_prompt_title">How many explorers are joining the expedition?</string>
+    <string name="field_guide_title">Expedition Field Guide</string>
+    <string name="expedition_log_title">Expedition Journal</string>
+</resources>
